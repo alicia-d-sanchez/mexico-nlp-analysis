@@ -143,10 +143,10 @@ journalistic language is perceived as more balanced by pattern-based scorers
 
 | Metric | Score |
 |--------|-------|
-| Accuracy | 77.78% |
-| F1 Score | 0.78 |
-| Precision | 0.79 |
-| Recall | 0.79 |
+| Accuracy | 72.22% |
+| F1 Score | 0.72 |
+| Precision | 0.72 |
+| Recall | 0.72 |
 
 > Note: Model was evaluated on an 18-article test set (80/20 split of 86 
 articles). Results should be interpreted in the context of the small 
