@@ -168,6 +168,6 @@ scikit-learn matplotlib seaborn wordcloud squarify`
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](#) or reach out via email if you 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alicia-sanchez-cs/) or reach out via [email](mailto:alicia.d.sanchez@outlook.com) if you 
 have questions about this project.
 ```
