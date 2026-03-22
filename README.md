@@ -49,7 +49,7 @@ mexico-nlp-analysis/
 | Unique Authors | 51 |
 | Avg Article Length | ~977 words |
 
-A 10-row sample of the dataset is available in `sample_data.csv`.
+A 15-row sample of the dataset is available in `sample_data.csv`.
 
 ---
 
